@@ -1,0 +1,13 @@
+{
+  "name": "reddit-comment-checker",
+  "version": "1.0.0",
+  "description": "Check if a Reddit comment has been reposted across subreddits",
+  "scripts": {
+    "dev": "echo 'No dev server needed for static site'",
+    "build": "echo 'No build process required'",
+    "start": "echo 'Static site - no start command needed'"
+  },
+  "keywords": ["reddit", "comment", "checker", "static-site"],
+  "author": "App Architect",
+  "license": "MIT"
+}
